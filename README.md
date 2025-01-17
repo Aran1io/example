@@ -1,4 +1,4 @@
-# example
+# example of a repository
 repository test
 
 ##description
